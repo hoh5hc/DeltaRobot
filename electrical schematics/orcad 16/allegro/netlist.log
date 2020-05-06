@@ -1,0 +1,19 @@
+{ Using PSTWRITER 16.3.0 p002Apr-29-2015 at 12:06:14 }
+
+#1 Warning [ALG0047] "No_connect" property on Pin "U4.13" ignored for U4: SCHEMATIC1, PAGE1 (1.40, 7.70). Connecting pin to net "PWMN".
+#2 Warning [ALG0016] Part Name "OPTO ISOLATOR_0_OPTO_PC817SMD_OPTO ISOLATOR" is renamed to "OPTO ISOLATOR_0_OPTO_PC817SMD_O".
+#3 Warning [ALG0016] Part Name "HEADER 5X2_HEADER_5X2_HEADER 5X2" is renamed to "HEADER 5X2_HEADER_5X2_HEADER 5X".
+#4 Warning [ALG0016] Part Name "HEADER 5X2/M_HEADER_5X2_HEADER 5X2/M" is renamed to "HEADER 5X2/M_HEADER_5X2_HEADER".
+#5 Warning [ALG0016] Part Name "MOSFET_DN_DGS_0_TO220_HEAT_MOSFET_DN_DGS" is renamed to "MOSFET_DN_DGS_0_TO220_HEAT_MOSF".
+#6 Warning [ALG0016] Part Name "STM32F103C8T6_0_LQFP48_STM32F103C8T6" is renamed to "STM32F103C8T6_0_LQFP48_STM32F10".
+#7 Warning [ALG0016] Part Name "L7812/TO220_0_TO220_HEAT_L7812/TO220" is renamed to "L7812/TO220_0_TO220_HEAT_L7812/".
+Scanning netlist files ...
+
+Loading... f:\project\delta robot\electrical schematics\full h driver with controller\allegro/pstchip.dat
+
+Loading... f:\project\delta robot\electrical schematics\full h driver with controller\allegro/pstchip.dat
+
+Loading... f:\project\delta robot\electrical schematics\full h driver with controller\allegro/pstxprt.dat
+
+Loading... f:\project\delta robot\electrical schematics\full h driver with controller\allegro/pstxnet.dat
+packaging the design view...

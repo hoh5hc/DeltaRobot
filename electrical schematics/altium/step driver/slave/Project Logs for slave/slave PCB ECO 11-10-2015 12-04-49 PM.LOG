@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PA0 Pin=ISO1-1
+Removed Pin From Net: NetName=PA1 Pin=ISO3-1
+Removed Pin From Net: NetName=PA2 Pin=ISO5-1
+Removed Pin From Net: NetName=PA3 Pin=ISO6-1
+Added Pin To Net: NetName=PB4 Pin=ISO1-1
+Added Pin To Net: NetName=PB5 Pin=ISO3-1
+Added Pin To Net: NetName=PB6 Pin=ISO5-1
+Added Pin To Net: NetName=PB7 Pin=ISO6-1
+Added Room: Name=Sheet1

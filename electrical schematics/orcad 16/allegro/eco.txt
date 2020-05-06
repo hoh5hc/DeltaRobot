@@ -1,0 +1,28 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  F:.../Full H driver with controller/allegro/controller.brd                  |
+|                                                    Wed Apr 29 12:06:16 2015  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.10           16730.0 8980.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA4          pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.2            16330.0 8980.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA5          pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.4            16430.0 8980.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA6          pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.6            16530.0 8980.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA7          pins ADDED TO this existing net (pins not previously on any net)
+                                 J3.8            16630.0 8980.00
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  5                                              |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VS2 Pin=RT6-1
+Added Pin To Net: NetName=VS1 Pin=RT3-1
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component RT3 10->1 ohm
+Added Member To Class: ClassName=Sheet1 Member=Component RT6 10->1 ohm
+Added Room: Name=Sheet1

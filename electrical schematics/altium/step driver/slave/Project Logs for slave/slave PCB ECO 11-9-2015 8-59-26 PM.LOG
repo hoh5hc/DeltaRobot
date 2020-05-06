@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=M3A1 Pin=*9-2
+Removed Pin From Net: NetName=GND Pin=*9-3
+Removed Pin From Net: NetName=M3A2 Pin=*10-2
+Removed Pin From Net: NetName=GRIP Pin=*11-2
+Removed Pin From Net: NetName=M3B1 Pin=*12-2
+Removed Pin From Net: NetName=M3B2 Pin=*13-2
+Removed Pin From Net: NetName=Net*10_1 Pin=ISO10-3
+Removed Pin From Net: NetName=Net*11_1 Pin=ISO11-3
+Removed Pin From Net: NetName=Net*12_1 Pin=ISO12-3
+Removed Pin From Net: NetName=Net*13_1 Pin=ISO13-3
+Removed Pin From Net: NetName=Net*10_1 Pin=RT20-1
+Removed Pin From Net: NetName=Net*11_1 Pin=RT22-1
+Removed Pin From Net: NetName=Net*12_1 Pin=RT25-1
+Removed Pin From Net: NetName=Net*13_1 Pin=RT26-1
+Removed Member From Class: ClassName=Sheet1 Member=*9
+Change Component Designator: OldDesignator=* NewDesignator=*9
+Added Component: Designator=*14(TO220)
+Added Pin To Net: NetName=M3A1 Pin=*10-2
+Added Pin To Net: NetName=M3A2 Pin=*11-2
+Added Pin To Net: NetName=GRIP Pin=*12-2
+Added Pin To Net: NetName=M3B1 Pin=*13-2
+Added Pin To Net: NetName=M3B2 Pin=*14-2
+Added Pin To Net: NetName=GND Pin=*14-3
+Added Pin To Net: NetName=Net*10_1 Pin=ISO9-3
+Added Pin To Net: NetName=Net*11_1 Pin=ISO10-3
+Added Pin To Net: NetName=Net*12_1 Pin=ISO11-3
+Added Pin To Net: NetName=Net*13_1 Pin=ISO12-3
+Added Pin To Net: NetName=Net*10_1 Pin=RT18-1
+Added Pin To Net: NetName=Net*11_1 Pin=RT20-1
+Added Pin To Net: NetName=Net*12_1 Pin=RT22-1
+Added Pin To Net: NetName=Net*13_1 Pin=RT25-1
+Added Pin To Net: NetName=Net*14_1 Pin=*14-1
+Added Pin To Net: NetName=Net*14_1 Pin=ISO13-3
+Added Pin To Net: NetName=Net*14_1 Pin=RT26-1
+Added Net: Name=Net*14_1
+Added Member To Class: ClassName=Sheet1 Member=Component *14 IRF540N
+Added Room: Name=Sheet1

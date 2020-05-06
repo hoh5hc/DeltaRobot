@@ -1,0 +1,4 @@
+Added Component: Designator=P7(HDR1X10)
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component P7 Header 10
+Added Room: Name=Sheet1

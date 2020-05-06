@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB12 Pin=P7-1
+Removed Pin From Net: NetName=PB13 Pin=P7-2
+Removed Pin From Net: NetName=PB14 Pin=P7-3
+Removed Pin From Net: NetName=PB15 Pin=P7-4
+Removed Pin From Net: NetName=PA8 Pin=P7-5
+Removed Member From Class: ClassName=master Member=P7
+Added Room: Name=master
